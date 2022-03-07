@@ -6,23 +6,27 @@ Through this document we want to present a development of a part of the RVfpgaSo
 ## First Part
 The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and RVfpgaSoC to understand how to start the construction of the Block Design, which was composed of a Swerv Wrapper module, an Interconnect Wrapper module, a Boot-ROM module, one GPIO Top module, one System Controller module and 32 Bidirectional GPIO modules, to finally have a block design like this: 
 <p align="center">
-  <img src="BD.jpg" width="850" title="Block Design">
+  <img src="img/BD.jpg" width="850" title="Block Design">
 </p>
 
+## Second Part
 
 
 ### Presented by:
 <p align="left">
-  <img src="ccprofile.jfif" width="150" title="Camilo Carrillo">
+  <img src="img/ccprofile.jfif" width="150" title="Camilo Carrillo">
 </p>
 Camilo E. Carrillo
 Electronic Engineering student at Universidad Industrial de Santander - Colombia
 
+<p align="left">
+  <img src="img/epprofile.jpg" width="150" title="Erika Porras">
+</p>
 Erika D. Porras
 Electronic Engineering student at Universidad Industrial de Santander - Colombia
 
 ### Special Thanks
 <p align="center">
-  <img src="imagination.jpg" height="250" title="Imagination University">
-  <img src="uis.png" height="250" title="Universidad Industrial de Santander">
+  <img src="img/imagination.jpg" height="150" title="Imagination University">
+  <img src="img/uis.png" height="150" title="Universidad Industrial de Santander">
 </p>
