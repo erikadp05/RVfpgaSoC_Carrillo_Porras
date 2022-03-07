@@ -10,9 +10,11 @@ The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and R
 </p>
 
 ## Second Part
+In this part we began to develop the implementation and use of the modules created in the previous part, thus creating a main module in which our design with the clock and memories would be connected. To carry out these objectives, the Verilator tool was used with which, later, using PlatformIO, the process of creating the trace could be continued.
 
+### Errors presented
 
-### Presented by:
+#### Presented by:
 <p align="left">
   <img src="img/ccprofile.jfif" width="150" title="Camilo Carrillo">
 </p>
@@ -23,9 +25,9 @@ Electronic Engineering student at Universidad Industrial de Santander - Colombia
   <img src="img/epprofile.jpeg" width="150" title="Erika Porras">
 </p>
 Erika D. Porras <br />
-Electronic Engineering student at Universidad Industrial de Santander - Colombia
+Electronic Engineering student at Universidad Industrial de Santander - Colombia <br />
 
-### Special Thanks
+#### Special Thanks
 <p align="center">
   <img src="img/imagination.jpg" height="150" title="Imagination University">
   <img src="img/uis.png" height="150" title="Universidad Industrial de Santander">
