@@ -20,3 +20,9 @@ Electronic Engineering student at Universidad Industrial de Santander - Colombia
 
 Erika D. Porras
 Electronic Engineering student at Universidad Industrial de Santander - Colombia
+
+### Special Thanks
+<p align="center">
+  <img src="imagination.jpgf" width="300" title="Imagination University">
+  <img src="uis.png" width="300" title="Universidad Industrial de Santander">
+</p>
