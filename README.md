@@ -23,6 +23,6 @@ Electronic Engineering student at Universidad Industrial de Santander - Colombia
 
 ### Special Thanks
 <p align="center">
-  <img src="imagination.jpg" width="300" title="Imagination University">
-  <img src="uis.png" width="300" title="Universidad Industrial de Santander">
+  <img src="imagination.jpg" heigth="250" title="Imagination University">
+  <img src="uis.png" heigth="250" title="Universidad Industrial de Santander">
 </p>
