@@ -5,8 +5,8 @@ Through this document we want to present a development of a part of the RVfpgaSo
 
 ## First Part
 The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and RVfpgaSoC to understand how to start the construction of the Block Design, which was composed of a Swerv Wrapper module, an Interconnect Wrapper module, a Boot-ROM module, one GPIO Top module, one System Controller module and 32 Bidirectional GPIO modules, to finally have a block design like this: 
-<p align="left">
-  <img src="BD.jpg" width="500" title="Block Design">
+<p align="center">
+  <img src="BD.jpg" width="850" title="Block Design">
 </p>
 
 
