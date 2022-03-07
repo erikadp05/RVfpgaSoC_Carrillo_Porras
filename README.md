@@ -10,6 +10,9 @@ The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and R
 
 
 ### Presented by:
+<p align="left">
+  <img src="ccprofile.jfif" width="350" title="hover text">
+</p>
 Camilo E. Carrillo
 Electronic Engineering student at Universidad Industrial de Santander - Colombia
 
