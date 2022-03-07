@@ -19,7 +19,7 @@ In this part we began to develop the implementation and use of the modules creat
   <img src="img/ccprofile.jfif" width="150" title="Camilo Carrillo">
 </p>
 Camilo E. Carrillo <br />
-Electronic Engineering student at Universidad Industrial de Santander - Colombia <br />
+Electronic Engineering student at Universidad Industrial de Santander - Colombia
 
 <p align="left">
   <img src="img/epprofile.jpeg" width="150" title="Erika Porras">
