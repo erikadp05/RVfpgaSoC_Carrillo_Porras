@@ -16,13 +16,13 @@ The first part consisted of a brief introduction to SoC, SweRVolfX, RVfpga and R
 <p align="left">
   <img src="img/ccprofile.jfif" width="150" title="Camilo Carrillo">
 </p>
-Camilo E. Carrillo
+Camilo E. Carrillo <br />
 Electronic Engineering student at Universidad Industrial de Santander - Colombia
 
 <p align="left">
-  <img src="img/epprofile.jpg" width="150" title="Erika Porras">
+  <img src="img/epprofile.jpeg" width="150" title="Erika Porras">
 </p>
-Erika D. Porras
+Erika D. Porras <br />
 Electronic Engineering student at Universidad Industrial de Santander - Colombia
 
 ### Special Thanks
